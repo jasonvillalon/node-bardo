@@ -18,7 +18,7 @@
     "gulp-babel": "^6.1.1",
     "lodash": "^3.9.3",
     "microtime": "^2.0.0",
-    "pg": "^4.3.0",
+    "pg": "^6.1.0",
     "pg-native": "^1.8.0",
     "shortid": "^2.2.2",
     "simple-bunyan": "^0.2.0",
