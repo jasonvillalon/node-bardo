@@ -1,4 +1,5 @@
 export default {
+  name: "bardo",
   db: {
     name: "bardo",
     host: "localhost",
