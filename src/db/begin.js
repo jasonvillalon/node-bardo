@@ -15,7 +15,6 @@ export default function begin() {
     d.run(next)
 
     function next() {
-      d.enter()
       // Acquire the (possibly new) client from the pool
       pg.connect({
         user: config.get("user"),
